@@ -4,7 +4,9 @@ All releases of all BikChat clients. Servers are **NOT public or open sourced.**
 ## Download
 
 **[The latest BikChat version release, install here](../../releases/latest)**
+
 If you need any help with installation/server access, PLEASE contact me on Discord, user: @reversal.real
+
 ## How to Install
 
 Have **Python** (at least 3.14? Unsure about earlier versions but untested)
